@@ -1,0 +1,107 @@
+.inline{
+    display: inline;
+}
+.header1{
+    overflow: hidden;
+   background-color:#683218;
+   padding-top: 10px;
+   padding-left: 80px;
+   font-size:large;
+   text-align: left;
+   color: rgb(231, 227, 227);
+   
+   
+}
+
+.pictures{
+    float: right;
+    overflow: hidden;
+    padding-bottom: 5px;
+    
+}
+.header1 div img{
+    padding-right: 25px;
+
+}
+
+body{
+    margin: 0%;
+}
+.header2 img{
+    width: 60%;
+    float: left;
+}
+
+.photos div{
+    margin-top: 20px;
+    float: right;
+    width: 5%;
+
+}
+.header2{
+    overflow: hidden;
+    background-color: #c0531d;
+    color: rgb(231, 227, 227);
+}
+.first li{
+    display: inline;
+    float: left;
+    margin-right: 3%;
+    margin-bottom: 1%;
+}
+.Second li{
+    display: inline;
+    float: right;
+    margin-right: 3%;
+    margin-bottom: 1%;
+}
+.header3{
+    background-color: rgb(235, 235, 235);
+    overflow: hidden;
+}
+.pic{
+    width: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.Bottom div{
+    background-color: rgb(236, 229, 229);
+    border: 1px solid black;
+    width: 22%;
+    float: left;
+    margin-right: 10px;
+    padding: 10px;
+}
+.Bottom{
+    background-color: rgb(209, 204, 204);
+    overflow: hidden;
+    padding: 10px;
+}
+
+.Bottom div p{
+   background-color: #c0531d;
+   width: 80%;
+   padding: 20px;
+   margin-right: 60px;
+   color: white;
+   text-align: center;
+    
+}
+.Bottom div img{
+    border: 2px solid black;
+}
+.Bottom div h2{
+    text-align: center;
+}
+.Bottom div pre{
+    font-family:"Helvetica",'Times New Roman', Times, serif;
+}
+.sticky{
+    position: sticky;
+    width: 4%;
+    float:right;
+    bottom: 1rem;
+    align-self: flex-end;
+    margin-right: 2%;
+}
